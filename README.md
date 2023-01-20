@@ -2,7 +2,7 @@
 
 This repo contains program files used to develop the BrickBuster game from scratch
 
-The game was created using the Unity Game Engine
+The game was created using the **Unity Game Engine** and was written in C#
 
 Please view the 'DemoVideo.mov' file to view sample gameplay of the first level
 
