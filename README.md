@@ -1,6 +1,6 @@
 # BrickBuster Game
 
-This repo contains program files used to create the BrickBuster game 
+This repo contains program files used to develop the BrickBuster game from scratch
 
 The game was created using the Unity Game Engine
 
